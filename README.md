@@ -6,7 +6,7 @@
 
 **Podstawa3D_Rozszerzenie:** Rozwinięcie tematu, więcej elementów, przydatne do poszerzenia i utrwalenia wiedzy
 
-**TOPy_opisane: **Opisane zajęcia z TOPów
+**TOPy_opisane:** Opisane zajęcia z TOPów
 
 **ZajęciaIII_opisane:** Podstawy render pipeline z audioreaktywnością
 
